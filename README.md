@@ -7,7 +7,7 @@ In this project, the goal is to design and train a ResNet50 model to recognize a
 
 **High Accuracy:** ResNet50 is known for its accuracy in image recognition tasks, making it suitable for distinguishing between multiple object classes with high precision.
 
-**Deep Architecture: **The depth of ResNet50 allows it to learn complex features and patterns in images, which improves its ability to generalize to different object classes.
+**Deep Architecture:** The depth of ResNet50 allows it to learn complex features and patterns in images, which improves its ability to generalize to different object classes.
 
 **Residual Connections:** The use of residual connections in ResNet50 helps in mitigating the vanishing gradient problem, enabling the training of very deep networks without performance degradation.
 
